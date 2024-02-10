@@ -1,10 +1,10 @@
-Hi, I'm Bruce Athy
+Hi, I'm Bruce
 ==================================================================================================================================
 
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in United States
+* 🌍  I'm based in the United States
 * ✉️  You can contact me at [bruceathy@gmail.com](mailto:bruceathy@gmail.com)
 
 ### Skills
